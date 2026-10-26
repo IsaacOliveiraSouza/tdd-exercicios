@@ -15,7 +15,7 @@ O histórico de commits segue o ciclo do TDD: para cada exercício há um commit
 Requisitos: Python 3.10 ou superior.
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/IsaacOliveiraSouza/tdd-exercicios.git
 cd tdd-exercicios
 python -m venv .venv
 ```
